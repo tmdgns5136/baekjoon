@@ -1,4 +1,5 @@
 // 동전 1(골드4)
+// DP이용
 import java.util.*;
 import java.io.*;
 public class BJ2293 {
