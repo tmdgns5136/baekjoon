@@ -22,8 +22,12 @@ public class BJ2309 {
                     if((arr[i] + arr[j]) == sum){
                         arr[i] = 0;
                         arr[j] = 0;
+                        break;
                     }
                 }
+            }
+            if(arr[i] == 0){
+                break;
             }
         }
         for(int i =0; i<9; i++){
