@@ -1,8 +1,7 @@
 // 빙고(실버4)
 // 구현, 시뮬레이션
 import java.io.*;
-import java.util.Arrays;
-import java.util.StringTokenizer;
+import java.util.*;
 import java.util.stream.IntStream;
 public class BJ2578 {
     public static void main(String[] args)throws IOException {

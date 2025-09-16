@@ -1,5 +1,5 @@
 // 분해합(브론즈2)
-// 
+// 브루트포스
 import java.io.*;
 public class BJ2231 {
     public static void main(String[] args)throws IOException {
